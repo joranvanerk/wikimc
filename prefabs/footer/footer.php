@@ -37,10 +37,10 @@
         <h5 class="text-uppercase">Navigatie</h5>
         <ul class="list-unstyled">
           <li>
-            <a href="#!" class="text-white">Home</a>
+            <a href="./index.php" class="text-white">Home</a>
           </li>
           <li>
-            <a href="#!" class="text-white">Gameplay</a>
+            <a href="./gameplay.php" class="text-white">Gameplay</a>
           </li>
         </ul>
       </div>
@@ -51,10 +51,10 @@
         <h5 class="text-uppercase">Navigatie</h5>
         <ul class="list-unstyled">
           <li>
-            <a href="#!" class="text-white">Survival</a>
+            <a href="./survival.php" class="text-white">Survival</a>
           </li>
           <li>
-            <a href="#!" class="text-white">Creative</a>
+            <a href="./creative.php" class="text-white">Creative</a>
           </li>
         </ul>
       </div>
