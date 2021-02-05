@@ -77,7 +77,7 @@
       <!-- de card titel voor boven de comments laden -->
       Reacties
       </h2>
-      <iframe src="https://online.samensocial.nl/prefabs/content/content1/zenden.php" frameborder="0" height="240" width="1000"></iframe>
+      <iframe src="https://online.samensocial.nl/prefabs/content/content2/zenden.php" frameborder="0" height="240" width="1000"></iframe>
         <!-- de ingevoerde comments laden -->
         <?php
           include("./database/connect_db.php");
